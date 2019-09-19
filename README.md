@@ -1,2 +1,2 @@
 # Natural language processing
-1. Sentiment_classification_TFIDF_vectorization 
+1. Sentiment_classification_TFIDF_vectorization https://colab.research.google.com/gist/shvm2012/45d4281762a90c61af4393228608dbb5/sentiment_classification_tfidf_vectorization.ipynb

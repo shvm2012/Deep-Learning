@@ -5,4 +5,4 @@
 <br>
 <a href ="https://colab.research.google.com/github/shvm2012/Natural-Language-Processing-essentials/blob/master/Sentiment_classification_word_embeddings_KERAS.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> Sentiment_classification_word_embeddings_KERAS
+</a> Sentiment_classification_using_DeepLearning_&_wordEmbeddings_KERAS
